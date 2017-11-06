@@ -1,2 +1,4 @@
 # demogit
-UNe demo git
+Une demo git
+
+Une petite correction orthographique
